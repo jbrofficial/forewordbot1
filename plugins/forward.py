@@ -349,7 +349,7 @@ async def forward(bot, message):
 
     print("Finished")
     try:
-        await m.edit(text=f'Succesfully Forwarded {MessageCount} messages')
+        await m.edit(text=f'Succesfully Forwarded 😌✨{MessageCount} messages')
     except Exception as e:
         await bot.send_message(OWNER, e)
         print(e)
