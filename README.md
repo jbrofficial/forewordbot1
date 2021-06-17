@@ -7,7 +7,7 @@
 * For Public Channels Bot is used to forward , Thanks to [DⱥℝkAngel](https://github.com/Jijinr) for his [Frwdit](https://github.com/Jijinr/Frwdit).
 
 ### Deploy to Heroku
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/subinps/Forward_2.0)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/jbrofficial/forewordbot1)
 
 
 
@@ -25,6 +25,6 @@
 
 
 ### Credits
-* [DⱥℝkAngel](https://github.com/Jijinr) for his [Frwdit](https://github.com/Jijinr/Frwdit)
+* [DⱥℝkAngel](https://github.com/jbrofficial) for his [Frwdit](https://github.com/jbrofficial/forewordbot1)
 * [Rahul](https://github.com/rahulps1000) for his [ForwardBot](https://github.com/rahulps1000/ForwardBot)
 
